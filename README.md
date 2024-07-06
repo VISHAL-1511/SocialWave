@@ -1,1 +1,2 @@
 # SocialWave
+SocialWave is a modern social media platform crafted with the MERN Stack and enhanced by Material UI. Our primary goal is to provide users with a seamless and intuitive experience for connecting and discovering others. Key features include robust user profiles, real-time updates to keep users informed, interactive content sharing to foster engagement, and convenient sign-in/sign-out functionality. With an emphasis on responsive design and performance optimization, SocialWave ensures a smooth and enjoyable user experience across devices.
